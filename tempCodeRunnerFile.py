@@ -1,0 +1,1 @@
+# Dictionary to store one example image for each cla
